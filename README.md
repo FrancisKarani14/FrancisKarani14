@@ -47,7 +47,8 @@ Here are a few projects I’ve built recently:
 ---
 
 ## 📈 Stats & Activity
-![Francis's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true)  
+![Francis's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=FrancisKarani14&theme=dark&hide_border=true&?cache_seconds=1800)
+
 
 ---
 
