@@ -18,7 +18,7 @@ I believe good software should not just work — it should feel right.
 Here are a few projects I’ve built recently:  
 
 - 👟 **Aman Kicks** → An e-commerce web app to browse and buy sneakers with style  
-- 🎯 **Tusome** → A quiz application that makes learning fun and interactive  
+- 🎯 **Urban_wheels** → An application that makes it easy and efficient to hire cars  
 - 🐇 **Rabbit Farm Tracker** → A farm management app to track breeding, serving dates, and births  
 
 *(check out my pinned repositories for more!)*  
@@ -29,7 +29,7 @@ Here are a few projects I’ve built recently:
 
 ### 🌐 Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
